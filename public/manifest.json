@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "AI Code Explainer",
+  "version": "1.0",
+  "description": "Explains complex code snippets using AI.",
+  "permissions": [
+    "contextMenus",
+    "sidePanel",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "action": {
+    "default_title": "Open Code Explainer"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
