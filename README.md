@@ -40,7 +40,7 @@ Before setting up the project, ensure you have the following installed:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ai-code-explainer-extension.git](https://github.com/YOUR_USERNAME/ai-code-explainer-extension.git)
+    git clone https://github.com/Apoorv479/AI-code-explainer-extension.git
     cd ai-code-explainer-extension
     ```
 
@@ -100,4 +100,4 @@ The extension requires the following permissions in `manifest.json`:
 
 ```
 
-```
+
