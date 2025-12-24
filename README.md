@@ -1,6 +1,5 @@
-Here is the professional `README.md` file based on the analysis of your project code and structure.
 
-```markdown
+
 # AI Code Explainer Extension
 
 ## Project Description
